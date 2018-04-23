@@ -1,5 +1,16 @@
-container {
-	text align: center;
-	margin: 0 auto;
+body {
+    background-color: gray;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
 	}
 
+p { 
+    font-size: 24px;
+}
